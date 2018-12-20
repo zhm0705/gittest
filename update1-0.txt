@@ -1,0 +1,4 @@
+now start update app 0.0 to 1.0
+in branch release_1.0:
+	time:2018/12/20
+	content:add something to the app
